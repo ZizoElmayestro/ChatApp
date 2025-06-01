@@ -20,7 +20,7 @@ A sophisticated real-time chat application built with Node.js and Socket.IO that
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ZizoElmayestro/chat-app.git
+git clone https://github.com/ZizoElmayestro/ChatApp.git
 cd chat-app
 ```
 
